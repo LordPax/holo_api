@@ -11,7 +11,7 @@ L'api n'est toujours pas tester car je n'est pas accès mon pc ayant le mod en q
 * pas encore sur pastebin
 
 ### Importation
-* avec holo_api.lua dans le même dossier
+* avec holo_api.lua et char.lua dans le même dossier
 ```lua
 local holo = requrie("holo_api")
 ```
