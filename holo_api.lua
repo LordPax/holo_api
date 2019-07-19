@@ -17,7 +17,7 @@ holo_api.char = require("char")
 holo_api.holo
 holo_api.color = 1
 holo_api.bite = {
-	{0, 0, 1, 1, 1, 0, 0},
+	{0, 0, 0, 1, 0, 0, 0},
 	{0, 0, 1, 0, 1, 0, 0},
 	{0, 0, 1, 0, 1, 0, 0},
 	{0, 0, 1, 1, 1, 0, 0},
