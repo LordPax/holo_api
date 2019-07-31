@@ -8,7 +8,9 @@ L'api n'est toujours pas tester car je n'est pas accès mon pc ayant le mod en q
 
 ## Utilisation
 ### Pastebin
-* pas encore sur pastebin
+* holo_api.lua : [Kqy1PgUF](https://pastebin.com/Kqy1PgUF)
+* char.lua : [QnDSvhjq](https://pastebin.com/QnDSvhjq)
+* char2.lua (test) : [mfa6WbXm](https://pastebin.com/mfa6WbXm)
 
 ### Importation
 * avec holo_api.lua et char.lua dans le même dossier
